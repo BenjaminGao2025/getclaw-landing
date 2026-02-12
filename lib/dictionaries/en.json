@@ -1,0 +1,277 @@
+{
+  "nav": {
+    "services": "Services",
+    "pricing": "Pricing",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "bookCall": "Book a Call"
+  },
+  "hero": {
+    "title": "Your OpenClaw. Set Up Right. Secured. Running.",
+    "subtitle": "We deploy OpenClaw for founders and teams who want AI automation without the technical headache. Based in Vancouver, serving globally.",
+    "cta": "Get Started",
+    "ctaSecondary": "See Pricing",
+    "trust1": "Security-first deployment",
+    "trust2": "Remote & In-person",
+    "trust3": "48hr turnaround"
+  },
+  "painPoints": {
+    "title": "Why You Need This",
+    "items": [
+      {
+        "icon": "🤯",
+        "title": "OpenClaw is powerful but hard to set up",
+        "desc": "Between Docker, networking, API keys, and security configs, a single misstep can leave your system vulnerable or broken."
+      },
+      {
+        "icon": "🔓",
+        "title": "42,900+ exposed instances found online — security matters",
+        "desc": "Thousands of OpenClaw instances are running with default settings, exposed to the internet. Don't be one of them."
+      },
+      {
+        "icon": "⏰",
+        "title": "You're a founder, not a sysadmin",
+        "desc": "Your time is worth more than debugging YAML files. Focus on growing your business while we handle the infrastructure."
+      },
+      {
+        "icon": "💸",
+        "title": "Misconfigured agents waste $100+/day in API costs",
+        "desc": "Without proper rate limiting and model routing, your AI agent can burn through API credits faster than you realize."
+      }
+    ]
+  },
+  "services": {
+    "title": "What We Do",
+    "items": [
+      {
+        "title": "Install & Harden",
+        "subtitle": "Full deployment with enterprise-grade security",
+        "features": [
+          "Complete OpenClaw deployment on your infrastructure",
+          "Security hardening (DM pairing, network lockdown, sandboxing)",
+          "Email, calendar & messaging platform integration",
+          "Up to 3 custom workflows configured",
+          "Full documentation delivered"
+        ]
+      },
+      {
+        "title": "Executive Agent Setup",
+        "subtitle": "Personalized AI agents for your leadership team",
+        "features": [
+          "Independent agent for each executive",
+          "CEO / CFO / Sales / EA — each with unique identity",
+          "Cross-platform messaging integration",
+          "Permission isolation and security boundaries",
+          "Tailored workflows per role"
+        ]
+      },
+      {
+        "title": "Managed Care",
+        "subtitle": "Ongoing support so you never worry about uptime",
+        "features": [
+          "24/7 monitoring and alerting",
+          "Security patches and version updates",
+          "Configuration drift detection",
+          "Monthly optimization review",
+          "Dedicated Slack / WeChat support channel"
+        ]
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Simple, Transparent Pricing",
+    "subtitle": "One-time setup fee. No hidden costs. No surprises.",
+    "plans": [
+      {
+        "name": "In-Person",
+        "location": "Vancouver",
+        "price": "2,800",
+        "currency": "CAD",
+        "period": "one-time",
+        "features": [
+          "On-site deployment & hardening",
+          "Full integration setup",
+          "Up to 3 custom workflows",
+          "14-day hypercare support",
+          "Complete documentation"
+        ],
+        "cta": "Get Started",
+        "popular": false
+      },
+      {
+        "name": "Remote",
+        "location": "Anywhere",
+        "price": "1,400",
+        "currency": "CAD",
+        "period": "one-time",
+        "features": [
+          "Remote deployment & hardening",
+          "Full integration setup",
+          "Up to 3 custom workflows",
+          "14-day hypercare support",
+          "Complete documentation"
+        ],
+        "cta": "Get Started",
+        "popular": true
+      },
+      {
+        "name": "Additional Agent",
+        "location": "Add-on",
+        "price": "1,400",
+        "currency": "+CAD",
+        "period": "per agent",
+        "features": [
+          "Additional executive agent identity",
+          "Role-specific configuration",
+          "Cross-platform integration",
+          "Permission isolation",
+          "Included in hypercare period"
+        ],
+        "cta": "Get Started",
+        "popular": false
+      }
+    ],
+    "managed": {
+      "title": "Managed Care Plans",
+      "plans": [
+        {
+          "name": "Standard",
+          "price": "2,200",
+          "period": "/mo",
+          "desc": "2 agents included"
+        },
+        {
+          "name": "Plus",
+          "price": "4,500",
+          "period": "/mo",
+          "desc": "5 agents included"
+        },
+        {
+          "name": "Enterprise",
+          "price": "Custom",
+          "period": "",
+          "desc": "Unlimited agents, SLA"
+        }
+      ]
+    }
+  },
+  "howItWorks": {
+    "title": "How It Works",
+    "steps": [
+      {
+        "icon": "📞",
+        "title": "Book a Call",
+        "desc": "15-minute free consultation to understand your needs and team structure."
+      },
+      {
+        "icon": "🔧",
+        "title": "We Deploy",
+        "desc": "Within 48 hours, we deploy, harden, and configure your OpenClaw instance."
+      },
+      {
+        "icon": "✅",
+        "title": "You're Live",
+        "desc": "Your OpenClaw agent is up and running, handling emails, calendar, and more."
+      },
+      {
+        "icon": "🛡️",
+        "title": "Ongoing Care",
+        "desc": "14-day free hypercare support, plus optional monthly managed care."
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "What Our Clients Say",
+    "placeholder": "placeholder - to be replaced",
+    "items": [
+      {
+        "name": "Sarah Chen",
+        "company": "Maple Ventures",
+        "role": "CEO",
+        "quote": "GetClaw had our entire team running on AI agents within 48 hours. The security hardening alone was worth every penny."
+      },
+      {
+        "name": "Marcus Williams",
+        "company": "Pacific Growth Capital",
+        "role": "Managing Director",
+        "quote": "As a non-technical founder, I needed someone I could trust with our AI infrastructure. GetClaw delivered flawlessly."
+      },
+      {
+        "name": "Jessica Liu",
+        "company": "Horizon Consulting",
+        "role": "COO",
+        "quote": "Our API costs dropped 60% after GetClaw optimized our agent configuration. The ROI was immediate."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "items": [
+      {
+        "q": "What is OpenClaw?",
+        "a": "OpenClaw is an open-source AI agent platform created by Peter Steinberger. It can automate everyday tasks like managing emails, scheduling meetings, sending messages, and more — acting as a tireless digital assistant for busy professionals."
+      },
+      {
+        "q": "Is OpenClaw free? Why should I pay for installation?",
+        "a": "Yes, OpenClaw itself is free and open-source. However, deploying it securely requires deep technical knowledge — server configuration, network security, API integration, and ongoing maintenance. That's where we come in. Think of it like WordPress: the software is free, but you'd still hire a professional to build and secure your business website."
+      },
+      {
+        "q": "Who pays for the server and API costs?",
+        "a": "You do — and you maintain full control. We help you set up on your own infrastructure (cloud VPS or local Mac mini) and configure your own API keys. This means your data stays yours, and you only pay for what you use. Typical server costs run $20-50/month, and API costs vary based on usage."
+      },
+      {
+        "q": "What AI models does OpenClaw support?",
+        "a": "OpenClaw supports all major AI models including OpenAI (GPT-4), Anthropic (Claude), Google (Gemini), and open-source models via Ollama. We help you choose and configure the right model mix for your use case and budget."
+      },
+      {
+        "q": "How long does setup take?",
+        "a": "Most deployments are completed within 48 hours. In-person setups in Vancouver are typically done in a single day. Remote deployments may take 1-2 business days depending on your infrastructure and requirements."
+      },
+      {
+        "q": "Can you serve clients outside Vancouver?",
+        "a": "Absolutely! While we offer premium in-person service in Vancouver, the majority of our clients are remote. We work with teams across Canada, the US, and globally via secure remote access."
+      },
+      {
+        "q": "What does \"hardening\" mean?",
+        "a": "Hardening refers to securing your OpenClaw instance against unauthorized access and attacks. This includes: enabling DM pairing authentication, locking down network ports, setting up sandboxed execution environments, configuring rate limits, and implementing proper access controls. With 42,900+ exposed instances found online, this step is critical."
+      },
+      {
+        "q": "What happens after the 14-day hypercare period?",
+        "a": "After the 14-day period, your OpenClaw instance continues running independently. You can manage it yourself with the documentation we provide, or subscribe to our Managed Care plan for ongoing monitoring, updates, security patches, and priority support."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Ready to Get Started?",
+    "subtitle": "Choose how you'd like to connect with us.",
+    "bookCall": {
+      "title": "Book a Call",
+      "desc": "Schedule a free 15-minute consultation to discuss your needs.",
+      "cta": "Book a Free 15-min Call"
+    },
+    "form": {
+      "title": "Send a Message",
+      "name": "Name",
+      "email": "Email",
+      "message": "Tell us about your team",
+      "submit": "Send Message",
+      "success": "Message sent! We'll get back to you within 24 hours.",
+      "namePlaceholder": "Your name",
+      "emailPlaceholder": "you@company.com",
+      "messagePlaceholder": "How many team members? What tools do you use? What would you like automated?"
+    },
+    "instant": {
+      "title": "Instant Contact",
+      "whatsapp": "Chat on WhatsApp",
+      "wechat": "Scan WeChat QR",
+      "email": "hello@getclaw.ca"
+    }
+  },
+  "footer": {
+    "brand": "Professional OpenClaw deployment and management services. We help founders and teams harness the power of AI agents — securely and reliably.",
+    "quickLinks": "Quick Links",
+    "location": "Based in Vancouver, Canada 🇨🇦 · Serving Globally 🌏",
+    "copyright": "© 2026 GetClaw. All rights reserved.",
+    "disclaimer": "GetClaw is an independent service provider. OpenClaw is an open-source project by Peter Steinberger."
+  }
+}

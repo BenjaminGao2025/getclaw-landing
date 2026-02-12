@@ -1,0 +1,277 @@
+{
+  "nav": {
+    "services": "服务",
+    "pricing": "价格",
+    "faq": "常见问题",
+    "contact": "联系我们",
+    "bookCall": "预约咨询"
+  },
+  "hero": {
+    "title": "OpenClaw 专业部署 — 安装、加固、持续保障",
+    "subtitle": "我们为创始人和团队部署 OpenClaw，让你享受 AI 自动化，无需操心技术细节。温哥华团队，服务全球。",
+    "cta": "立即开始",
+    "ctaSecondary": "查看价格",
+    "trust1": "安全优先部署",
+    "trust2": "远程及上门服务",
+    "trust3": "48小时交付"
+  },
+  "painPoints": {
+    "title": "为什么你需要这项服务",
+    "items": [
+      {
+        "icon": "🤯",
+        "title": "OpenClaw 很强大，但安装很复杂",
+        "desc": "Docker、网络配置、API 密钥、安全设置——任何一个疏忽都可能导致系统被攻击或崩溃。"
+      },
+      {
+        "icon": "🔓",
+        "title": "超过 42,900 个暴露实例，安全不能忽视",
+        "desc": "数以万计的 OpenClaw 实例正以默认设置暴露在互联网上。不要成为其中之一。"
+      },
+      {
+        "icon": "⏰",
+        "title": "你是创始人，不是运维工程师",
+        "desc": "你的时间比调试 YAML 文件更有价值。专注于发展业务，基础设施交给我们。"
+      },
+      {
+        "icon": "💸",
+        "title": "配置不当的 Agent 每天浪费 $100+ API 费用",
+        "desc": "没有适当的速率限制和模型路由，你的 AI Agent 会比你想象的更快烧光 API 额度。"
+      }
+    ]
+  },
+  "services": {
+    "title": "我们的服务",
+    "items": [
+      {
+        "title": "安装与加固",
+        "subtitle": "企业级安全的完整部署",
+        "features": [
+          "在你的基础设施上完整部署 OpenClaw",
+          "安全加固（DM 配对、网络锁定、沙箱化）",
+          "邮箱、日历和消息平台集成",
+          "最多 3 个自定义工作流配置",
+          "完整文档交付"
+        ]
+      },
+      {
+        "title": "高管 Agent 配置",
+        "subtitle": "为管理团队定制个性化 AI 代理",
+        "features": [
+          "为每位高管配置独立 Agent",
+          "CEO / CFO / 销售 / EA 各自独立身份",
+          "跨平台消息集成",
+          "权限隔离和安全边界",
+          "按角色定制工作流"
+        ]
+      },
+      {
+        "title": "持续托管",
+        "subtitle": "持续支持，无需担心运行状态",
+        "features": [
+          "24/7 监控和告警",
+          "安全补丁和版本更新",
+          "配置漂移检测",
+          "月度优化审查",
+          "专属 Slack / 微信支持频道"
+        ]
+      }
+    ]
+  },
+  "pricing": {
+    "title": "简单透明的定价",
+    "subtitle": "一次性安装费。没有隐藏费用。没有意外。",
+    "plans": [
+      {
+        "name": "上门服务",
+        "location": "温哥华",
+        "price": "2,800",
+        "currency": "CAD",
+        "period": "一次性",
+        "features": [
+          "上门部署与安全加固",
+          "完整集成配置",
+          "最多 3 个自定义工作流",
+          "14 天超级支持",
+          "完整文档交付"
+        ],
+        "cta": "立即开始",
+        "popular": false
+      },
+      {
+        "name": "远程服务",
+        "location": "全球",
+        "price": "1,400",
+        "currency": "CAD",
+        "period": "一次性",
+        "features": [
+          "远程部署与安全加固",
+          "完整集成配置",
+          "最多 3 个自定义工作流",
+          "14 天超级支持",
+          "完整文档交付"
+        ],
+        "cta": "立即开始",
+        "popular": true
+      },
+      {
+        "name": "额外 Agent",
+        "location": "附加服务",
+        "price": "1,400",
+        "currency": "+CAD",
+        "period": "每个",
+        "features": [
+          "额外的高管 Agent 身份",
+          "角色定制配置",
+          "跨平台集成",
+          "权限隔离",
+          "包含在支持期内"
+        ],
+        "cta": "立即开始",
+        "popular": false
+      }
+    ],
+    "managed": {
+      "title": "持续托管方案",
+      "plans": [
+        {
+          "name": "标准版",
+          "price": "2,200",
+          "period": "/月",
+          "desc": "包含 2 个 Agent"
+        },
+        {
+          "name": "进阶版",
+          "price": "4,500",
+          "period": "/月",
+          "desc": "包含 5 个 Agent"
+        },
+        {
+          "name": "企业版",
+          "price": "定制",
+          "period": "",
+          "desc": "无限 Agent，SLA 保障"
+        }
+      ]
+    }
+  },
+  "howItWorks": {
+    "title": "服务流程",
+    "steps": [
+      {
+        "icon": "📞",
+        "title": "预约通话",
+        "desc": "15 分钟免费咨询，了解你的需求和团队结构。"
+      },
+      {
+        "icon": "🔧",
+        "title": "我们部署",
+        "desc": "48 小时内完成部署、安全加固和配置。"
+      },
+      {
+        "icon": "✅",
+        "title": "正式上线",
+        "desc": "你的 OpenClaw Agent 正式上线，处理邮件、日历等日常事务。"
+      },
+      {
+        "icon": "🛡️",
+        "title": "持续保障",
+        "desc": "14 天免费超级支持，可选月度持续托管服务。"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "客户评价",
+    "placeholder": "占位内容 - 待替换",
+    "items": [
+      {
+        "name": "Sarah Chen",
+        "company": "Maple Ventures",
+        "role": "CEO",
+        "quote": "GetClaw 在 48 小时内让我们整个团队都用上了 AI Agent。光是安全加固就物超所值。"
+      },
+      {
+        "name": "Marcus Williams",
+        "company": "Pacific Growth Capital",
+        "role": "董事总经理",
+        "quote": "作为一个非技术出身的创始人，我需要一个值得信赖的团队来处理 AI 基础设施。GetClaw 完美交付。"
+      },
+      {
+        "name": "Jessica Liu",
+        "company": "Horizon Consulting",
+        "role": "COO",
+        "quote": "GetClaw 优化了我们的 Agent 配置后，API 成本降低了 60%。投资回报立竿见影。"
+      }
+    ]
+  },
+  "faq": {
+    "title": "常见问题",
+    "items": [
+      {
+        "q": "OpenClaw 是什么？",
+        "a": "OpenClaw 是由 Peter Steinberger 创建的开源 AI Agent 平台。它可以自动处理日常任务，如管理邮件、安排会议、发送消息等——为忙碌的专业人士充当不知疲倦的数字助理。"
+      },
+      {
+        "q": "OpenClaw 不是免费的吗？为什么要付费安装？",
+        "a": "是的，OpenClaw 本身是免费开源的。但安全地部署它需要深厚的技术知识——服务器配置、网络安全、API 集成和持续维护。这就是我们的价值所在。就像 WordPress：软件是免费的，但你仍然会请专业人士来构建和保护你的商业网站。"
+      },
+      {
+        "q": "服务器和 API 费用谁出？",
+        "a": "由你承担，但你拥有完全控制权。我们帮你在你自己的基础设施（云 VPS 或本地 Mac mini）上搭建，并配置你自己的 API 密钥。这意味着你的数据完全属于你，你只需为实际使用量付费。典型的服务器成本约 $20-50/月，API 费用根据使用量而定。"
+      },
+      {
+        "q": "OpenClaw 支持哪些 AI 模型？",
+        "a": "OpenClaw 支持所有主流 AI 模型，包括 OpenAI（GPT-4）、Anthropic（Claude）、Google（Gemini），以及通过 Ollama 运行的开源模型。我们会帮你根据使用场景和预算选择并配置最佳的模型组合。"
+      },
+      {
+        "q": "安装需要多长时间？",
+        "a": "大多数部署在 48 小时内完成。温哥华的上门安装通常一天内搞定。远程部署可能需要 1-2 个工作日，具体取决于你的基础设施和需求。"
+      },
+      {
+        "q": "你们服务温哥华以外的客户吗？",
+        "a": "当然！虽然我们在温哥华提供优质的上门服务，但大多数客户其实是远程的。我们通过安全的远程访问为加拿大、美国及全球的团队提供服务。"
+      },
+      {
+        "q": "\"安全加固\"是什么意思？",
+        "a": "安全加固是指保护你的 OpenClaw 实例免受未授权访问和攻击。包括：启用 DM 配对认证、锁定网络端口、设置沙箱执行环境、配置速率限制以及实施适当的访问控制。鉴于网上已发现超过 42,900 个暴露的实例，这一步至关重要。"
+      },
+      {
+        "q": "14 天支持期结束后怎么办？",
+        "a": "14 天结束后，你的 OpenClaw 实例会继续独立运行。你可以根据我们提供的文档自行管理，也可以订阅我们的持续托管方案，享受持续监控、更新、安全补丁和优先支持。"
+      }
+    ]
+  },
+  "contact": {
+    "title": "准备好开始了吗？",
+    "subtitle": "选择你喜欢的联系方式。",
+    "bookCall": {
+      "title": "预约通话",
+      "desc": "安排 15 分钟免费咨询，讨论你的需求。",
+      "cta": "预约 15 分钟免费通话"
+    },
+    "form": {
+      "title": "发送消息",
+      "name": "姓名",
+      "email": "邮箱",
+      "message": "介绍一下你的团队",
+      "submit": "发送消息",
+      "success": "消息已发送！我们会在 24 小时内回复。",
+      "namePlaceholder": "你的姓名",
+      "emailPlaceholder": "you@company.com",
+      "messagePlaceholder": "团队有多少人？使用哪些工具？希望自动化哪些工作？"
+    },
+    "instant": {
+      "title": "即时联系",
+      "whatsapp": "WhatsApp 联系",
+      "wechat": "扫描微信二维码",
+      "email": "hello@getclaw.ca"
+    }
+  },
+  "footer": {
+    "brand": "专业的 OpenClaw 部署和管理服务。我们帮助创始人和团队安全、可靠地利用 AI Agent 的强大力量。",
+    "quickLinks": "快速链接",
+    "location": "总部位于加拿大温哥华 🇨🇦 · 服务全球 🌏",
+    "copyright": "© 2026 GetClaw. 保留所有权利。",
+    "disclaimer": "GetClaw 是独立服务提供商。OpenClaw 是 Peter Steinberger 的开源项目。"
+  }
+}
